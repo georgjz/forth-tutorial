@@ -35,6 +35,6 @@ Your challenge is to replace `( your code )` with words to emulate the behavior 
 $ make check2
 ```
 
-Ignore the warning Gforth prints; replacing and redefining the original word definitions is exactly the point of this challenge.
+Ignore the warnings Gforth prints; replacing and redefining the original word definitions is exactly the point of this challenge.
 
 [gforthtut]: https://www.complang.tuwien.ac.at/forth/gforth/Docs-html/Stack-Manipulation-Tutorial.html#Stack-Manipulation-Tutorial
